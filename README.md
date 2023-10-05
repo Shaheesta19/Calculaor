@@ -1,9 +1,11 @@
 # CalculatorApp
 # CodingSamuraiInternshipTask02
 
-##Introduction
+## Introduction
+
 This is a command line Calculator App implemented in java. It allows us to perform basic arithmetic operations such as Addition, subtraction , multiplication , and division using switch case statements.
-##Usage
+## Usage
+
 To use the Calculator, follow these steps:-
 1.Compile the java source code:
 javac Calculator.java
